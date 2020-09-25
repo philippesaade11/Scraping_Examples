@@ -6,4 +6,4 @@ After searching for the location and insuring a side panel for google maps on th
 The pop up window is used to extract the reviews.
 
 The script also logs in to a google account so make sure to set the username and password inside the google_login function.
-This script is designed to be used continuously on a loop because it avoids recaptcha, being blocked as much as possible.
+This script is designed to be used continuously on a loop because it avoids recaptcha and blockage as much as possible.
