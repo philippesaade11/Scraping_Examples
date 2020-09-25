@@ -441,7 +441,7 @@ def google_login():
     except:
         pass
 
-def latest_review_checker(url):
+def scrape_reviews(url):
     try:
         print(url, flush=True)
         browser = get_driver()
